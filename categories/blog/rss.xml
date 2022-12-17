@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Kamal Chandra Upreti - Blog</title>
+        <link>https://kamalupreti.com.np</link>
+        <description>Personal Blog site</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://kamalupreti.com.np/categories/blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Hello World!</title>
+            <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+            <link>https://kamalupreti.com.np/posts/post-0/</link>
+            <guid>https://kamalupreti.com.np/posts/post-0/</guid>
+            <description>&lt;p&gt;Hello world, I have started my blogging website from today. I will be posting stuffs related to my programming journey, tecnical knowledge that I want to share and other things that I will learn.&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>
